@@ -1,4 +1,4 @@
-package awesomeTodoApp
+package todo
 
 type TodoList struct {
 	Id          int    `json:"id"`
